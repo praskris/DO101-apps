@@ -10,6 +10,6 @@ app.get('/mars', function (req, res) {
 });
 
 app.listen(8085, function () {
-  console.log('Example app listening on port 8085!');
+  console.log('Example app is listening on port 8085!');
 });
 
